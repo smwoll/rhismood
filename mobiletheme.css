@@ -1,4 +1,4 @@
-/* updated 2*/
+/* updated 3 */
 
 .bar-header {
   background-color: #1277d1;
@@ -41,7 +41,7 @@ ion-side-menu li.item.item-divider {
   color: maroon;
 }
 .ion-help-buoy {
-  color: #1277d1;
+  color: blue;
 }
 .ion-gear-b {
   color: dimgray;
@@ -159,13 +159,13 @@ page-core-mainmenu-more .ion-wp-globe {
 page-core-mainmenu-more .ion-md-qr-scanner,
 page-core-mainmenu-more .ion-ios-qr-scanner,
 page-core-mainmenu-more .ion-wp-qr-scanner {
-  color: #1277d1;
+  color: blue;
 }
 
 page-core-mainmenu-more .ion-md-help-buoy,
 page-core-mainmenu-more .ion-ios-help-buoy,
 page-core-mainmenu-more .ion-wp-help-buoy {
-  color: #1277d1;
+  color: blue;
 }
 
 page-core-mainmenu-more .ion-md-cog,
