@@ -1,5 +1,5 @@
 .bar-header {
-  background-color: #0636a3;
+  background-color: #1277d1;
 }
 
 ion-side-menu li .item {
@@ -18,7 +18,7 @@ ion-side-menu li.item.item-divider {
 }
 
 .ion-ionic {
-  color: orange;
+  color: #1277d1;
 }
 .ion-home {
   color: blue;
